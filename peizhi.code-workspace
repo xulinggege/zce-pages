@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "..\\gulp-demo"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "gulp-demo"
+	}
+}
