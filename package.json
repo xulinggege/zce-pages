@@ -1,5 +1,5 @@
 {
-  "name": "zce-pages",
+  "name": "my-gulp-module",
   "version": "0.1.0",
   "description": "Awesome node module",
   "keywords": [
@@ -13,7 +13,8 @@
   "license": "MIT",
   "author": "xulinggege <xulingbo-1@163.com>",
   "files": [
-    "lib"
+    "lib",
+    "bin"
   ],
   "main": "lib/index.js",
   "bin":"bin/zce-pages.js",
