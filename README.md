@@ -12,10 +12,10 @@
 ## Installation
 
 ```shell
-$ npm install zce-pages
+$ npm install my-gulp-module
 
 # or yarn
-$ yarn add zce-pages
+$ yarn add my-gulp-module
 ```
 
 ## Usage
@@ -23,7 +23,7 @@ $ yarn add zce-pages
 <!-- TODO: Introduction of API use -->
 
 ```javascript
-const zcePages = require('zce-pages')
+const zcePages = require('my-gulp-module')
 const result = zcePages('zce')
 // result => 'zce@zce.me'
 ```
